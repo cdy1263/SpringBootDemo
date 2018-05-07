@@ -1,6 +1,6 @@
-#org.springframework.context.ApplicationListener=com.example.demo.MyApplicationEnvironmentPreparedEvent\
-#  ,com.example.demo.MyApplicationFailedEvent\
-#  ,com.example.demo.MyApplicationPreparedEvent\
-#  ,com.example.demo.MyApplicationReadyEvent\
-#  ,com.example.demo.MyApplicationStartedEvent\
-#  ,com.example.demo.MyApplicationStartingEvent
+org.springframework.context.ApplicationListener=com.example.demo.MyApplicationEnvironmentPreparedEvent\
+  ,com.example.demo.MyApplicationFailedEvent\
+  ,com.example.demo.MyApplicationPreparedEvent\
+  ,com.example.demo.MyApplicationReadyEvent\
+  ,com.example.demo.MyApplicationStartedEvent\
+  ,com.example.demo.MyApplicationStartingEvent
